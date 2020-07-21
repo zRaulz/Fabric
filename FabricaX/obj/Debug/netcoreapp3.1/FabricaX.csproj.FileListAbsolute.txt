@@ -1,0 +1,13 @@
+C:\Users\raulh\source\repos\FabricaX\FabricaX\bin\Debug\netcoreapp3.1\FabricaX.exe
+C:\Users\raulh\source\repos\FabricaX\FabricaX\bin\Debug\netcoreapp3.1\FabricaX.deps.json
+C:\Users\raulh\source\repos\FabricaX\FabricaX\bin\Debug\netcoreapp3.1\FabricaX.runtimeconfig.json
+C:\Users\raulh\source\repos\FabricaX\FabricaX\bin\Debug\netcoreapp3.1\FabricaX.runtimeconfig.dev.json
+C:\Users\raulh\source\repos\FabricaX\FabricaX\bin\Debug\netcoreapp3.1\FabricaX.dll
+C:\Users\raulh\source\repos\FabricaX\FabricaX\bin\Debug\netcoreapp3.1\FabricaX.pdb
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.csprojAssemblyReference.cache
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.AssemblyInfoInputs.cache
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.AssemblyInfo.cs
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.csproj.CoreCompileInputs.cache
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.dll
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.pdb
+C:\Users\raulh\source\repos\FabricaX\FabricaX\obj\Debug\netcoreapp3.1\FabricaX.genruntimeconfig.cache
